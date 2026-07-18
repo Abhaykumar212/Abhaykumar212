@@ -23,11 +23,9 @@ me:
   name: Abhay Kumar
   role: Web Developer & Competitive Programmer
   education: Final Year ECE, NIT Kurukshetra
-  currently_building: NOF - AI powered Olympiad platform
-  currently_learning: [System Design, Advanced DSA]
+  currently_learning: [System Design, Gen AI]
   ask_me_about: [Data Structures, Algorithms, Web Dev]
   reach_me: mk9416822@gmail.com
-  fun_fact: I debug faster than I make chai
 ```
 
 </td>
