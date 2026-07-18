@@ -1,101 +1,141 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=36&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Abhay+Kumar;Full+Stack+Developer;Competitive+Programmer;Codeforces+Expert;LeetCode+Guardian;Always+Learning+Something+New+%F0%9F%9A%80" />
+</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=220&section=header&text=Abhay%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Competitive%20Programmer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%"/>
+<h3 align="center">
+ECE @ NIT Kurukshetra • Full Stack Developer • Competitive Programmer
+</h3>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+cool+things+on+the+web;Solving+DSA+problems+daily;Codeforces+Expert+%7C+ICPC+Regionalist;Always+shipping+something+new" alt="Typing SVG" />
-</a>
+<p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=abhaykumar212&label=Profile%20Views&color=2c5364&style=for-the-badge" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Abhaykumar212&style=for-the-badge&color=blue"/>
 
-</div>
+<img src="https://img.shields.io/github/followers/Abhaykumar212?style=for-the-badge"/>
 
-<br>
+<img src="https://img.shields.io/github/stars/Abhaykumar212?style=for-the-badge"/>
 
-<table align="center">
-<tr>
-<td width="60%" valign="top">
+</p>
 
-### 🧭 About Me
+---
 
-```yaml
-name: Abhay Kumar
-role: Web Developer & DSA Enthusiast
-location: India
-currently_learning: [Advanced DSA, Full Stack Development]
-currently_building: NOF - AI powered Olympiad platform
-ask_me_about: [Data Structures, Algorithms, Web Dev]
-reach_me: mk9416822@gmail.com
-fun_fact: "I debug faster than I make chai ☕"
+# 👨‍💻 About Me
+
+```cpp
+class AbhayKumar {
+
+public:
+
+    string college = "NIT Kurukshetra";
+    string branch = "Electronics & Communication";
+    string role = "Full Stack Developer";
+
+    vector<string> interests = {
+
+        "Competitive Programming",
+        "Backend Development",
+        "Problem Solving",
+        "Open Source"
+    };
+
+    string currentFocus =
+        "Building scalable web applications.";
+};
 ```
 
-</td>
-<td width="40%" align="center">
-<img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="260"/>
-</td>
-</tr>
-</table>
+---
 
-<br>
+# 🏆 Competitive Programming
 
-<div align="center">
+🏅 Codeforces Expert
 
-### 🌐 Connect With Me
+⭐ CodeChef 4★
 
-<a href="https://linkedin.com/in/abhay-kumar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/abhaykumar.212" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.codechef.com/users/abhaykumar212" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-<a href="https://codeforces.com/profile/.BOSS." target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-<a href="https://leetcode.com/abhay_kumar212" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://auth.geeksforgeeks.org/user/mk9416822" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-<a href="mailto:mk9416822@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+👑 LeetCode Guardian
 
-</div>
+💯 1400+ Problems Solved
 
-<br>
+🚀 ICPC Regionalist
 
-<div align="center">
+---
 
-### 🛠️ Tech Arsenal
+# ⚙️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,bootstrap,tailwind,react,nodejs,express,mongodb,mysql,python,git,postman,matlab&theme=dark" />
+<p align="center">
 
-</div>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,react,nodejs,express,mongodb,mysql,git,github,tailwind,postman,vscode"/>
 
-<br>
+</p>
 
-<div align="center">
+---
 
-### 📊 GitHub Analytics
+# 🌐 Connect With Me
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhaykumar212&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaykumar212&layout=compact&theme=tokyonight&hide_border=true" width="34%"/>
+<p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhaykumar212&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhaykumar212&theme=tokyo-night&hide_border=true" width="90%"/>
+<a href="https://linkedin.com/in/abhay-kumar">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
-</div>
+<a href="https://instagram.com/abhaykumar.212">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
 
-<br>
+<a href="https://leetcode.com/u/abhay_kumar212/">
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="48"/>
+</a>
 
-<div align="center">
+<a href="https://codeforces.com/profile/.BOSS.">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" width="48"/>
+</a>
 
-### 🏆 Competitive Programming
+<a href="https://www.codechef.com/users/abhaykumar212">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" width="48"/>
+</a>
 
-| Platform | Handle | Highlight |
-|---|---|---|
-| 🔵 Codeforces | [.BOSS.](https://codeforces.com/profile/.BOSS.) | Expert (~1879) |
-| 🟠 LeetCode | [abhay_kumar212](https://leetcode.com/abhay_kumar212) | Guardian (~2191) |
-| 🍛 CodeChef | [abhaykumar212](https://www.codechef.com/users/abhaykumar212) | Active Solver |
-| 🏅 ICPC | — | Regionalist |
+<a href="https://auth.geeksforgeeks.org/user/mk9416822">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/geeksforgeeks.svg" width="48"/>
+</a>
 
-</div>
+</p>
 
-<br>
+---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+# 📊 GitHub Stats
 
-**Thanks for stopping by! Drop a ⭐ if you like what you see.**
+<p align="center">
 
-</div>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abhaykumar212&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhaykumar212&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhaykumar212&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhaykumar212&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# ⚡ Quote
+
+> **"Consistency beats talent when talent doesn't work consistently."**
+
+---
+
+<p align="center">
+
+⭐ If you like my work, consider giving a star to my repositories!
+
+</p>
