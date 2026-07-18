@@ -58,7 +58,7 @@ me:
 
 ### 🛠️ Tech Arsenal
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs,express,tailwind,bootstrap,mongodb,mysql,git,github,postman,linux,vscode,opencv,pytorch,numpy,matlab,latex&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs,express,tailwind,bootstrap,mongodb,mysql,git,github,postman,linux,vscode,pytorch,matlab,latex&theme=dark&perline=8" />
 
 </div>
 
