@@ -1,47 +1,101 @@
-<h1 align="center">Hi 👋, I'm Abhay kumar</h1>
-<h3 align="center">Glad to see you here! 🤩 I am a Web Developer and good problem solver in DSA🚀 from India.</h3>
-<img align = "right" alt = "coding" width = "400" src = "https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaykumar212&label=Profile%20views&color=0e75b6&style=flat" alt="abhaykumar212" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=220&section=header&text=Abhay%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Competitive%20Programmer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%"/>
 
-- 🌱 I’m currently learning **DSA and Web Developement**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+cool+things+on+the+web;Solving+DSA+problems+daily;Codeforces+Expert+%7C+ICPC+Regionalist;Always+shipping+something+new" alt="Typing SVG" />
+</a>
 
-- 💬 Ask me about **Data Structures and Algorithm(DSA)**
+<img src="https://komarev.com/ghpvc/?username=abhaykumar212&label=Profile%20Views&color=2c5364&style=for-the-badge" alt="profile views"/>
 
-- 📫 How to reach me **mk9416822@gmail.com**
+</div>
 
-- ⚡ Fun fact **I love to solve coding problems**
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abhay kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhay kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/abhaykumar.212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhaykumar.212" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/abhay_kumar212" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhay_kumar212" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mk9416822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mk9416822" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhay_kumar212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhay_kumar212" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/mk9416822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mk9416822" height="30" width="40" /></a>
-</p>
+<table align="center">
+<tr>
+<td width="60%" valign="top">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### 🧭 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaykumar212&show_icons=true&locale=en&layout=compact" alt="abhaykumar212" /></p>
+```yaml
+name: Abhay Kumar
+role: Web Developer & DSA Enthusiast
+location: India
+currently_learning: [Advanced DSA, Full Stack Development]
+currently_building: NOF - AI powered Olympiad platform
+ask_me_about: [Data Structures, Algorithms, Web Dev]
+reach_me: mk9416822@gmail.com
+fun_fact: "I debug faster than I make chai ☕"
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhaykumar212&show_icons=true&locale=en" alt="abhaykumar212" /></p>
+</td>
+<td width="40%" align="center">
+<img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="260"/>
+</td>
+</tr>
+</table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhaykumar212&" alt="abhaykumar212" /></p>
+<br>
 
-<!--
-**Abhaykumar212/Abhaykumar212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+### 🌐 Connect With Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://linkedin.com/in/abhay-kumar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/abhaykumar.212" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/abhaykumar212" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/.BOSS." target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+<a href="https://leetcode.com/abhay_kumar212" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://auth.geeksforgeeks.org/user/mk9416822" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+<a href="mailto:mk9416822@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🛠️ Tech Arsenal
+
+<img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,bootstrap,tailwind,react,nodejs,express,mongodb,mysql,python,git,postman,matlab&theme=dark" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 📊 GitHub Analytics
+
+<img src="https://github-readme-stats.vercel.app/api?username=abhaykumar212&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaykumar212&layout=compact&theme=tokyonight&hide_border=true" width="34%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhaykumar212&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhaykumar212&theme=tokyo-night&hide_border=true" width="90%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🏆 Competitive Programming
+
+| Platform | Handle | Highlight |
+|---|---|---|
+| 🔵 Codeforces | [.BOSS.](https://codeforces.com/profile/.BOSS.) | Expert (~1879) |
+| 🟠 LeetCode | [abhay_kumar212](https://leetcode.com/abhay_kumar212) | Guardian (~2191) |
+| 🍛 CodeChef | [abhaykumar212](https://www.codechef.com/users/abhaykumar212) | Active Solver |
+| 🏅 ICPC | — | Regionalist |
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+
+**Thanks for stopping by! Drop a ⭐ if you like what you see.**
+
+</div>
