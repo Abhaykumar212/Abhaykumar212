@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Abhay%20Kumar&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%E2%80%A2%20Competitive%20Programmer%20%E2%80%A2%20Problem%20Solver&descAlignY=55&descSize=19" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=7AA2F7&center=true&vCenter=true&width=680&lines=%24+whoami;Abhay+Kumar+-+ECE+NIT+Kurukshetra;%24+currently+building;NOF+-+AI+Powered+Olympiad+Platform;%24+codeforces+--rating;Expert+1879+and+climbing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=7AA2F7&center=true&vCenter=true&width=680&lines=%24+whoami;Abhay+Kumar+-+ECE+NIT+Kurukshetra;%24+codeforces+--rating;Expert+1879+and+climbing" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=abhaykumar212&label=Profile%20Views&color=302b63&style=for-the-badge" alt="profile views"/>
